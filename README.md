@@ -18,6 +18,10 @@
 
 The organization HFT-Projekts hosts joint group projects that were created as part of computer science studies at the [Stuttgart Technical University of Applied Sciences (HFT)](https://www.hft-stuttgart.com/).
 
+### [CloudBackup](https://github.com/HFT-Projects/CloudBackup)
+
+The CloudBackup project is a C++-based software that creates, restores and manages backups in an Amazon S3-Bucket.
+
 ### [UltimateTicTacToe-NN](https://github.com/HFT-Projects/UltimateTicTacToe-NN)
 
 The UltimateTicTacToe-NN project is a Java-based software and implements a neural network-based system to play Ultimate Tic Tac Toe, featuring a graphical user interface for human interaction and an autonomous runner for long-term training. The project focuses on AI techniques, including neural network training, activation functions, and game logic implementation.
